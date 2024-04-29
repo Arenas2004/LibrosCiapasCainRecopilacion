@@ -1,0 +1,58 @@
+.Titulo1{
+    text-align: center;
+    background-color: brown;
+    color: azure;
+    padding: 25px;
+}
+
+h1{
+    text-shadow: none;
+}
+
+.inicio{
+    background-color: rgb(158, 70, 35);
+    color: beige;
+    text-align: left;
+    list-style: none;
+    padding: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.Foto_Perfil{
+    width : 120px;
+    height: 120px;
+    float:  right  ;
+    border-radius: 50%;
+    background-origin: 50%;
+}
+
+.Importante1{
+    background-color: brown;
+    color: beige;
+    text-align: left;
+    list-style: none;
+    padding: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.Libros{
+    color: rgb(0, 0, 0);
+    background-color: rgb(255, 255, 255);
+    text-align: left;
+    list-style: none;
+    padding: 30px;
+
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+    border-right : 12px solid rgb(255, 0, 0);
+    border-left : 12px solid rgb(255, 0, 0);
+
+}   
+
+img {
+
+    width: 400px;
+    height: 480px;
+}
+
+
